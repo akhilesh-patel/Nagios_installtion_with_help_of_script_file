@@ -40,6 +40,6 @@ nagios Dashboard
 ![Screenshot (837)](https://user-images.githubusercontent.com/64592542/146919393-f7521922-a59e-4689-873a-406e0f8efaed.png)
 
 
-
+Linkedin profile
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-patel-8983aa1a5/)
 
