@@ -12,7 +12,7 @@ run this file
 #####HTTP basic authentication.####
 enter password a to z
 
-![Screenshot (835)](https://user-images.githubusercontent.com/64592542/146919495-ccf53156-63c9-4f0a-9e39-72881c5d417c.png)
+![Screenshot (834)](https://user-images.githubusercontent.com/64592542/146919627-7bc21c02-db2a-42e3-b150-950369a85668.png)
 
 nagios setup your system
 
