@@ -1,0 +1,1 @@
+# Nagios_installtion_with_help_of_script_file
