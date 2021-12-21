@@ -1,4 +1,9 @@
 # Nagios_installtion_with_help_of_script_file
+Nagios is an open source monitoring system for computer systems 
+
+Nagios software runs periodic checks on critical parameters of application, network and server resources.
+
+For example, Nagios can monitor memory usage, disk usage, microprocessor load, the number of currently running processes and log files.
 
 
 Installation of nagios on rhel8
@@ -33,4 +38,8 @@ password is {............}
 
 nagios Dashboard
 ![Screenshot (837)](https://user-images.githubusercontent.com/64592542/146919393-f7521922-a59e-4689-873a-406e0f8efaed.png)
+
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-patel-8983aa1a5/)
 
