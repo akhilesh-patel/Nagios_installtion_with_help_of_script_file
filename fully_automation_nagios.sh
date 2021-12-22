@@ -32,6 +32,8 @@ echo " ###############HTTP basic authentication.#################"
 sleep 10
 
 htpasswd -b -c  /usr/local/nagios/etc/htpasswd.users nagiosadmin  akhilesh
+#username=nagiosadmin
+#password=akhilesh
 
 
 
